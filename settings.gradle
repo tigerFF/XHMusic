@@ -1,5 +1,2 @@
-include ':lib_image_loader'
-include ':lib_api'
-include ':lib_common_ui'
 include ':app'
-rootProject.name = "XHMusic"
+rootProject.name = "cloudmusic2"
